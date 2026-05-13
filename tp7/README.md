@@ -34,4 +34,4 @@ Si les frais de transaction passent à 2%, l'action optimale dans de nombreuses 
 - REINFORCE, pénalisé par sa variance, mettrait beaucoup plus de temps à distinguer le "bruit" des récompenses du signal clair des frais prohibitifs.
 
 ## Resulat : 
-![Learning Curves](./tp7/learning_curves.png)
+![Learning Curves](./learning_curves.png)
